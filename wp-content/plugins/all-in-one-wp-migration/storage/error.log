@@ -1,0 +1,171 @@
+Dec 02 2022 15:23:02
+{"Number":8192,"Message":"explode(): Passing null to parameter #2 ($string) of type string is deprecated","File":"\/bitnami\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":463}
+
+Dec 02 2022 15:23:02
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:02
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:02
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:02
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:02
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/bitnami\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/export\/class-ai1wm-export-config.php","Line":164}
+
+Dec 02 2022 15:23:02
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:02
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:02
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:03
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:05
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:05
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:05
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:05
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:06
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:06
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:09
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:12
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:15
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:16
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:17
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:18
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:19
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:19
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:19
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:20
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:20
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:23:22
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:54
+{"Number":8192,"Message":"explode(): Passing null to parameter #2 ($string) of type string is deprecated","File":"\/bitnami\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":463}
+
+Dec 02 2022 15:24:54
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:54
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:54
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:54
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:54
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/bitnami\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/export\/class-ai1wm-export-config.php","Line":164}
+
+Dec 02 2022 15:24:54
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:54
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:54
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:55
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:57
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:57
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:57
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:57
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:58
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:24:58
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:01
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:04
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:07
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:08
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:10
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:11
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:11
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:11
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:11
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:12
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:12
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:14
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
+Dec 02 2022 15:25:14
+{"type":8192,"message":"parse_str(): Passing null to parameter #1 ($string) of type string is deprecated","file":"\/bitnami\/wordpress\/wp-content\/plugins\/jetpack\/class.jetpack.php","line":4203}
+
